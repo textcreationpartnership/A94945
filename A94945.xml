@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of a great and happy victory obtained by the Parliaments forces, under the command of Colonell Ruthin, over Sir Ralph Hopton, and his cavaliers, neer Plymmouth, with the names of the prisoners they have taken in the battell, and diverse other passages of extraordinary importance. As it was sent in a letter from the committe at Dartmouth, directed to the right honourable the Lords and others of the committee for the safety of the kingdome; and read at a conference of both Houses of Parliament, on Tuesday the 13 of December 1642 Iohn Browne Cler. Parliament. Subscribed unto by William Ruthyen Alex. Pym Lov's Dicke. George Thomson Anthony Rouse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94945</idno>
+            <idno type="STC">Wing T2540</idno>
+            <idno type="STC">Thomason E130_25</idno>
+            <idno type="STC">ESTC R9330</idno>
+            <idno type="EEBO-CITATION">99873527</idno>
+            <idno type="PROQUEST">99873527</idno>
+            <idno type="VID">156315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of a great and happy victory obtained by the Parliaments forces, under the command of Colonell Ruthin, over Sir Ralph Hopton, and his cavaliers, neer Plymmouth, with the names of the prisoners they have taken in the battell, and diverse other passages of extraordinary importance. As it was sent in a letter from the committe at Dartmouth, directed to the right honourable the Lords and others of the committee for the safety of the kingdome; and read at a conference of both Houses of Parliament, on Tuesday the 13 of December 1642 Iohn Browne Cler. Parliament. Subscribed unto by William Ruthyen Alex. Pym Lov's Dicke. George Thomson Anthony Rouse.</title>
+                  <author>Ruthyen, William.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 14. Printed for John Wright in the Old-Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Subscribed unto by William Ruthyen .. [et. al.]".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156315:1" rendition="simple:additions"/>
+            <p>A True and Perfect RELATION Of a GREAT AND HAPPY VICTORY Obtained by the Parliaments For<g ref="char:EOLhyphen"/>ces, under the Command of Colonell <hi>Ru<g ref="char:EOLhyphen"/>thin,</hi> over Sir <hi>Ralph Hopton,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his Cavaliers, neer <hi>Plymmouth,</hi> with the Names of the Priſoners they have taken in the Battell, and diverſe other paſſages of extraordinary importance.</p>
+            <p>As it was ſent in a Letter from the Committe at <hi>Dartmouth,</hi> directed to the Right Honourable the Lords and others of the Committee for the ſafety of the Kingdome; And read at a Conference of both Houſes of Parliament, on <hi>Tueſday</hi> the 13 of <hi>December</hi> 1642.</p>
+            <p>
+               <hi>Iohn Browne</hi> Cler. Parliament.</p>
+            <p>Subſcribed unto by
+<list>
+                  <item>William Ruthyen</item>
+                  <item>Alex. Pym</item>
+                  <item>Lov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Dicke.</item>
+                  <item>George Thomſon</item>
+                  <item>Anthony Rouſe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Decemb.</hi> 14. Printed for <hi>John Wright</hi> in the Old-Bailey. 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156315:2"/>
+            <pb facs="tcp:156315:2"/>
+            <head>To the Right HONOURABLE The Lords and others of the Committee, for the ſafety of the Kingdome: preſent theſe.</head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to our dutie and truſt repoſed in us, we have uſed our beſt endeavour for the pre<g ref="char:EOLhyphen"/>ſervation of this Coun<g ref="char:EOLhyphen"/>tie: And although lit<g ref="char:EOLhyphen"/>tle Aſſiſtance hath beene offered us by the people here (to what wee ex<g ref="char:EOLhyphen"/>pected) yet God that never faileth thoſe that goe on in his way, and reſt upon his power and goodneſſe, hath ſo bleſſed us now in this time of Streights, that hee hath done great things for us by ſmall meanes, to him alone be the glory and praiſe.</p>
+            <p>
+               <pb facs="tcp:156315:3"/>Upon Tueſday the 29. of <hi>November,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Thompſon,</hi> and Captaine <hi>Pym,</hi> by command of Colonell <hi>Ruthyen,</hi> went to <hi>Plymton,</hi> to keepe the Towne with their Troopes, and about 70. Dragoneers and 200. Foot, if they ſaw it might have beene kept without great hazard. But the next day hearing the Enemy was marching from <hi>Taviſtock,</hi> with (as was related to us) 3000. Horſe and Foot, and about 8. peeces of Ordi<g ref="char:EOLhyphen"/>nance, and finding the Towne of <hi>Plymton</hi> not to be kept without as great a Force as ſhould come againſt it, by reaſon the Towne lyes ſo ſcatte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ring, and ſeverall Villages ſo neere it; And leaſt the Enemy ſhould come betwixt them and <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> they drew forth towards the Enemy, but night comming on, they could not come to give them a charge, without hazard of the damaging of one another in the darke, they then went to <hi>Plymouth.</hi>
+            </p>
+            <p>The next day being Thurſday, Colonell <hi>Ru<g ref="char:EOLhyphen"/>thyen,</hi> with 4. Troopes of Horſe and the afore<g ref="char:EOLhyphen"/>ſaid Dragoneers, went to <hi>Plymton</hi> to revive the Towne and to ſee the motion of the Enemy, and found the Towne as was related to him. Then drew towards <hi>Plymouth,</hi> and ſtood upon the La<g ref="char:EOLhyphen"/>rie for the ſpace of three houre, facing the Ene<g ref="char:EOLhyphen"/>my, who attempted one charge to have drawne us to their Ambaſcadoes, but fled preſently, and durſt not withall then force, which we judge was at leaſt 2500. Horſe and Foot (then left, for
+<pb facs="tcp:156315:3"/>
+many ranne away the night before) give us a charge upon faire ground, but that night, they went to <hi>Plymton</hi> where they continued.</p>
+            <p>Wedneſday the 7. of this preſent moneth, Colonell <hi>Ruthyen</hi> with the aforeſaid 4. Troopes of Horſe, and aboute 100. Dragoneers, about three of the clocke in the morning, marched from <hi>Plymouth,</hi> over <hi>Ruberdowne,</hi> being a by way to <hi>Modbery,</hi> where were gathered together by the Sheriffs command, 3. or 4000. Men, ſome with Armes, and ſome without, and we came ſo privately, that they did not diſcover us, untill we came within a mile of the Towne, which did ſo amaze them, that after Sir <hi>Ralph Hopton</hi> had drew up the Force he could preſently get, hee with Sir <hi>Nicholas Slaning</hi> ranne away and eſca<g ref="char:EOLhyphen"/>ped, and after a ſmall skirmiſh with thoſe that ſtood to it, with the loſſe of one man and two hurt, and 3. or 4. Horſes, we tooke Priſoners the Sheriffe, Sir <hi>Edmund Foſcue,</hi> and his Brother, Sir <hi>Edward Seymore</hi> and his ſonne, Maſter <hi>Baſsett,</hi> Captaine <hi>Glomery,</hi> Maſter <hi>Shopcut,</hi> Captaine <hi>Wood,</hi> Captaine <hi>Bidlock, Barnes</hi> of <hi>Exeter,</hi> Lieutenant <hi>Penroſe,</hi> Maſter <hi>Short, &amp;c,</hi>
+            </p>
+            <p>From thence we marched that day with our Priſoners to <hi>Dartmouth</hi> to the gladding of the hearts of the good people there (having had a long march ſixteene houres on horſebacke,) for while we were vpon our march towards <hi>Modbery,</hi> one Maſter <hi>Thomas Lee</hi> was in Treaty with Sir
+<pb facs="tcp:156315:4"/>
+               <hi>Ralph Hopton,</hi> about the delivery up of the Town as we are informed, and by his confeſſion he had got a warrant to free his houſe from Plun<g ref="char:EOLhyphen"/>dering, which Maſter <hi>Lee</hi> wee have alſo taken, and with the reſt of the Priſoners, have ſent to <hi>Plymouth</hi> this morning in a Frigot called the <hi>Creſſet,</hi> by one Cap. <hi>Plunket;</hi> we ran a great hazard in this ſervice, as your Honours may judge, for the Enemy lay on both ſides with all their force, part at <hi>Plymton,</hi> and part at <hi>Totneſse,</hi> but the Lord carryed us along in our way, and deluded the Enemies of his Truth, and our Liberties into our hands, and made many more to flee before us. The Priſoners, Colonell <hi>Ruthyen</hi> hath orde<g ref="char:EOLhyphen"/>red to be ſent from <hi>Plymouth,</hi> with the firſt faire wind to <hi>London,</hi> and we now lye here expecting ſome Force from <hi>Exeter</hi> to joyne with us, which if we can have but a 1000. Dragoneers, we hope to doe the Enemy much damage.</p>
+            <p>Wee here this day, that ſince our comming hither, the Enemy is come with the greateſt part of their Force to <hi>Totneſſe,</hi> what are left at <hi>Plymton</hi> we know not, If ſpeedy ſupplyes come not of Men, Money, and Armes, we feare they will plunder moſt of the good Townes, of this County, and what it may grow to, if God doth not mightily worke for us, we know not, your Honours know of what concernement the kee<g ref="char:EOLhyphen"/>ping of this Countie is, and wee doubt not but
+<pb facs="tcp:156315:4"/>
+the great need of aſſiſtance will bee ſufficient to move your Honours to take into conſideration the premiſes, which that your Honours would pleaſe to doe, is the humble deſire of</p>
+            <closer>
+               <signed>Your most obedient Servants.
+<list>
+                     <item>William Ruthyen.</item>
+                     <item>Alex. Pym.</item>
+                     <item>Lovis Dicke.</item>
+                     <item>George Thompſon.</item>
+                     <item>Antho. Rouſe.</item>
+                  </list>
+               </signed>
+               <dateline>Dartmouth <date>the 9 of Decemb. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
